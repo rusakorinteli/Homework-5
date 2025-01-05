@@ -1,4 +1,4 @@
 package dataObject;
 
-public interface OneProductPage {
+public interface OneProductPageData {
 }

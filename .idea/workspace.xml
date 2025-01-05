@@ -5,33 +5,121 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9aa6fd4-8c4e-4070-bfe6-d23ecbad1db4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dataObject/OneProductPageData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dataObject/OneProductPageData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dataObject/RegistrationPageData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dataObject/RegistrationPageData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObject/OneProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObject/OneProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObject/ProductList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObject/ProductList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObject/RegistrationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObject/RegistrationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stepObject/OneProductPageSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stepObject/OneProductPageSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stepObject/ProductListSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stepObject/ProductListSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stepObject/RegistrationPageSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stepObject/RegistrationPageSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/ChromeRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/ChromeRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/OneProductTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OneProductTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ProductListTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ProductListTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/RegistrationPageTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RegistrationPageTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/rusakorinteli/Homework-5.git",
+    "accountId": "cd9b32de-51ab-4792-b20c-8f132484741c"
+  }
 }]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2rCy1Mf8jtRXqkFCIqCwT1EFVKD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/rusakorinteli/IdeaProjects/Homework-5/src/main/java/org/example/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.OneProductTests.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ProductListTests.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ProductListTests.listPositive.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegistrationPageTests.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/rusakorinteli/IdeaProjects/Homework-5/src/main/java/org/example/Main.java&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="TestNG.OneProductTests">
+    <configuration name="OneProductTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Homework-5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OneProductTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductListTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Homework-5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProductListTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductListTests.listPositive" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Homework-5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProductListTests" />
+      <option name="METHOD_NAME" value="listPositive" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationPageTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Homework-5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RegistrationPageTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.OneProductTests" />
+        <item itemvalue="TestNG.RegistrationPageTests" />
+        <item itemvalue="TestNG.ProductListTests" />
+        <item itemvalue="TestNG.ProductListTests.listPositive" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
